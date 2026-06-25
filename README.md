@@ -1,5 +1,5 @@
 ## Name = Aasiyah Ali Syed
-## Intenrhsip = CodeAlha
+## Internship = CodeAlpha
 ✅
 ## TASK 4: Basic Chatbot 
 ## Goal: Build a simple rule-based chatbot. 
